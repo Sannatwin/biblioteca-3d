@@ -2,6 +2,8 @@
 
 Una libreria di casa trasformata in un catalogo interattivo navigabile in 3D, direttamente nel browser.
 
+👉 **[Apri la demo live](https://sannatwin.github.io/biblioteca-3d/)**
+
 ![Biblioteca 3D](docs/screenshot.png)
 
 > **Demo:** i libri in questo repository sono classici di pubblico dominio usati come esempio.
